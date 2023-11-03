@@ -10,3 +10,6 @@ def main(a):
 n = 1
 if n>0:
     print(2)
+n = -5
+if n<0:
+    print(-5)
