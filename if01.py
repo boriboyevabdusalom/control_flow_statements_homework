@@ -7,3 +7,6 @@ def main(a):
         a: a increased by 1 if positive, else unchanged.
     """
     return
+n = 1
+if n>0:
+    print(2)
